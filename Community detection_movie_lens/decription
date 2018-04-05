@@ -1,0 +1,2 @@
+1. Test communities of Movielens' users 
+2. If 2 users rate same movies more than 3 times, there is an edge between them. 
